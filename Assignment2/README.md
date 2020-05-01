@@ -1,6 +1,6 @@
 ## This is the solution of cybertalents' genfei challenge, you can access the challenge from [here](https://cybertalents.com/challenges/cryptography/genfei)
 
-## Solution decription:
+## Solution description:
 * The reverse operation of XOR is also XOR, **i.e.**, if **x ^ y = z**, then **y = x ^ z** and **x = y ^ z**
 * For each symbol **s**, consider the following:
     * **s** is the original text 
